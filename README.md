@@ -11,7 +11,7 @@ The World’s Billionaires is an annual ranking documented by net worth of the w
 7. The Sources of wealth of billionaires.
 8. The total billionaires by gender.
 9. The Billionaires net worth by status, the total number and percentage of selfmade wealth billionaires or inherited wealth billionaires.
-10.The youngest and oldest billionaires.
+10. The youngest and oldest billionaires.
 11. The total number and percentage of male billionaires and the Top richest male billionaires and the total count of male billionaires by industries or categories.
 12. The total number and percentage of female billionaires and the Top richest female billionaires and the total count of female billionaires by industries or categories.
 13. Total billionaires presence per country.
